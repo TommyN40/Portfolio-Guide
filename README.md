@@ -1,4 +1,4 @@
-# 🗺 Tommy's Portfolio
+# 🗺 Tommy's Portfolio (WIP AS OF JUNE 22, 2023)
 
 Welcome to my data portfolio! Here, I document a summary of my projects. 
 
