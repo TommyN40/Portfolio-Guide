@@ -15,11 +15,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects.
 | 💻  [5-Stage Pipelined CPU Design](https://github.com/TommyN40/5-Stage-Pipelined-CPU-Design) | May 2022 | Xilinx Design Package, MIPS Instruction Set Architecture | Successfully executed the design implementation of a 5-stage pipelined CPU based on the MIPS instruction set architecture, employing the Xilinx design package for FPGAs and improved CPU performance by implementing various pipelining techniques, including hazard detection, full forwarding, and branch comparison.
 | 💡 [Advanced Power Converter Design and Analysis](https://github.com/TommyN40/Advanced-Power-Converter-Design-and-Analysis) | Dec 2021 | Digital Evaluation Board, MatLab | The "Advanced Power Converter Design and Analysis" project involved developing a functional physical prototype of a DC/DC boost converter, designing a voltage control state machine and waveform generator circuit, and conducting in-depth waveform analysis to evaluate performance and efficiency.
 | 🚗 [Dynamic Car Dealer Web Application](https://github.com/TommyN40/Dynamic-Car-Dealer-Web-Application) | May 2021 | Java (OOP), NetBeans IDE, Apache Derby, SQL, Java Swing | The dynamic car dealer web application, built using object-oriented programming in Java, featured CRUD operations for clients, a control panel for admin users, a Graphical User Interface designed with Java Swing and NetBeans, and a database created with Apache Derby and SQL.
-| Smart Light Switch & Device
-| Interactive Music LED System 
-| Proximity Detection Device
-| Motor Control and Power Optimization
-| Remote Control Device
 
 
 ***
