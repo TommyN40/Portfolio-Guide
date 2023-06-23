@@ -3,12 +3,10 @@
 Welcome to my data portfolio! Here, I document a summary of my projects. 
 
 ## 📚 Table of Contents
-- [Systems Programming](#systems-programming)
-- [SQL](#sql)
-- [Python](#python)
-- [Java](#Java)
-- [Katie's Guides](#katies-guides)
-
+- [Systems Projects](#systems-projects)
+- [Application Projects](#application-projects)
+- [Game Projects](#game-projects)
+  
 # Systems Programming
 
 | Project Link | Completion Date | Tools | Project Description | 
@@ -21,7 +19,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects.
 
 ***
 
-# SQL
+# Application Projects
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
@@ -29,18 +27,16 @@ Welcome to my data portfolio! Here, I document a summary of my projects.
 
 ***
 
-# Python
+# Game Projects
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| Filler
+| [Tower Defense Game (Java)](https://github.com/TommyN40/Tower-Defense-Game)
+| Yahtzee (Visual Studio - Python)
+| Black Jack (Visual Studio - Python)
+| Tic-Tac-Toe (Java)
+| Space Invaders (Java)
+| Pong (Java)
 
-***
-
-# Java
-
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-| Filler 
 
 ***
